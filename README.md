@@ -23,3 +23,10 @@ This is the frontend landing page for the AI Attendance System.
 
 ##  Credits
 Based on Apna College AI/ML course project
+## 🔗 Related Project
+
+Backend (Main App):  
+https://github.com/vaishnavikotturwar/ai-attendance-app
+
+Frontend (Landing Page):  
+https://github.com/vaishnavikotturwar/ai-attendance-landing
